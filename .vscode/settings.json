@@ -1,0 +1,9 @@
+{
+    "liveServer.settings.CustomBrowser": "chrome",
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "javascript.format.enable": true,
+    "javascript.autoClosingTags": true,
+    "javascript.inlayHints.parameterTypes.enabled": false,
+}
